@@ -71,6 +71,18 @@ The following outputs were generated during evaluation:
 - **Confusion Matrix** (`confusion_matrix.png`) - Per-class prediction performance and common confusion pairs.
 - **Misclassified Examples** (`misclassified_examples.png`) - Sample misclassified test images with their true labels, predicted labels, and brief explanations for the observed errors.
 
+## Training Curves
+
+![Training Curves](training_curves.png)
+
+## Confusion Matrix
+
+![Confusion Matrix](confusion_matrix.png)
+
+## Misclassified Examples
+
+![Misclassified Examples](misclassified_examples.png)
+
 ### Performance Summary
 
 | Metric | Value |
